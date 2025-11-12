@@ -39,6 +39,12 @@ img {
   display: none;
 }
 
+.text {
+  text-transform: uppercase;
+  color: blue;
+  font-size: 20px;
+}
+
 /* -- HEADER -- */
 header {
   display: flex;
